@@ -4,5 +4,6 @@
     "markdown.preview.fontSize": 12,
     "terminal.integrated.fontSize": 12,
     "scm.inputFontSize": 12,
-    "chat.editor.fontSize": 12
+    "chat.editor.fontSize": 12,
+    "notebook.output.textLineLimit": 100
 }
